@@ -1,0 +1,3 @@
+LitFit is an IOS application aimed to create a fashion community where you can share fashion inspirations ('Get Inspired') and get advice catered towards your specific needs ('Get Advice').
+
+Main functionality includes the ability to login, post images, comment, and follow other users. The application is designed via Swift and Google Firebase.
